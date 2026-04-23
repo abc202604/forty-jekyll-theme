@@ -1,17 +1,17 @@
 # site settings
-title: Forty
-subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+title: NANJING ILUCKU TECHNOLOGIES
+# subtitle: 
+email: jason@ilucku.com
+# description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
+url: ilucku.com
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+street_address: No. 10 Suojie Street
+city: Nanjing
+# state: TN
+zip_code: 210017
+country: China
+phone: +86 25 88456455
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
